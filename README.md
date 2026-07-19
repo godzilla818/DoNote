@@ -102,8 +102,8 @@ React Renderer Process   → 全部 UI 组件、状态管理、用户交互
 
 1. 从百度网盘下载安装包：
 
-   > **链接**: [https://pan.baidu.com/s/1-ekMvM4ifeotE7e_mkxV7g?pwd=9t1h](https://pan.baidu.com/s/1-ekMvM4ifeotE7e_mkxV7g?pwd=9t1h)
-   > **提取码**: `9t1h`
+  通过网盘分享的文件：DoNote.7z
+链接: https://pan.baidu.com/s/1NXSNzfxPmoh7TUfUd_VCmg?pwd=29rm 提取码: 29rm
 
 2. 解压压缩包
 
